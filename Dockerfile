@@ -1,1 +1,1 @@
-FROM ibmcom/mq
+FROM ibmcom/mq:9.1.5.0-r1
